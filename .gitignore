@@ -1,0 +1,5 @@
+_build
+dist
+domestic-platforms
+.git
+.gh_token
